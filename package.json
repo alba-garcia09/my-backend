@@ -1,0 +1,16 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "My first API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alba García Lázazro",
+  "license": "ISC",
+  "devDependencies": { //  lo que necesito para producir pero no lo tengo que subir al proyecto
+    "@eslint/js": "^9.3.0",
+    "eslint": "^9.3.0",
+    "globals": "^15.3.0"
+  }
+}
